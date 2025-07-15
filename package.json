@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --root project",
-    "build": "vite build --root project",
+    "dev": "vite project",
+    "build": "vite build project",
     "lint": "eslint .",
-    "preview": "vite preview --root project"
+    "preview": "vite preview project"
   },
   "dependencies": {
     "lucide-react": "^0.263.1",
